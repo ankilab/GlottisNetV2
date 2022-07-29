@@ -1,0 +1,15 @@
+*.idea
+*.pyc
+*.h5
+*.npy
+__pycache__
+*.ipynb_checkpoints/
+*.vscode/
+Utils/__pycache__
+Utils/.ipynb_checkpoints/
+Models/__pycache__
+Comparison_Filter_Numbers.ipynb
+Results.ipynb
+Results_d.ipynb
+docs/source/_templates/
+docs/build/
