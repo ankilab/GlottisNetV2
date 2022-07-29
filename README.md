@@ -17,5 +17,6 @@ Due to version conflicts inside the `pip install` environment, please install th
 * [segmentation_models_3D](https://github.com/ZFTurbo/segmentation_models_3D) `pip install segmentation-models-3D`
 
 # Usage and documentation
-[https://github.com/qubvel/segmentation_models](https://github.com/qubvel/segmentation_models)
+You find all the documentation here:
+[https://glottisnetv2.readthedocs.io/en/latest/](https://glottisnetv2.readthedocs.io/en/latest/)
 
